@@ -1,17 +1,377 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Manifest>
   <File>
-    <Name>1.zip</Name>
-    <Path>public/1.zip</Path>
-    <Url>https://167.233.102.62:8443/public/1.zip</Url>
-    <Size>22</Size>
-    <Hash>d8e8f87b069a32ec06823894f55087b9</Hash>
-    <LastModified>2026-09-04T10:56:53.000Z</LastModified>
-    <DisplayName>1.zip</DisplayName>
+    <Name>RM_MICRO_2.4_2.5_TX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/RM_MICRO_2.4_2.5_TX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/RM_MICRO_2.4_2.5_TX.bin</Url>
+    <Size>1574565</Size>
+    <Hash>914c6b8bc772f368</Hash>
+    <LastModified>2026-06-10T07:35:35.514Z</LastModified>
+    <DisplayName>RM_MICRO_2.4_2.5_TX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>Cyclone_2.4_2.5_RX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/Cyclone_2.4_2.5_RX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/Cyclone_2.4_2.5_RX.bin</Url>
+    <Size>403973</Size>
+    <Hash>fd9383926422028a</Hash>
+    <LastModified>2026-06-10T07:35:36.794Z</LastModified>
+    <DisplayName>Cyclone_2.4_2.5_RX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>MAY UTKA.hex</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/MAY UTKA.hex</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/MAY UTKA.hex</Url>
+    <Size>1758428</Size>
+    <Hash>28390cea55dc203e</Hash>
+    <LastModified>2026-06-10T07:35:38.159Z</LastModified>
+    <DisplayName>MAY UTKA.hex</DisplayName>
+    <Extension>hex</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>UTKA Loader MAY.exe</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/UTKA Loader MAY.exe</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/UTKA Loader MAY.exe</Url>
+    <Size>7047680</Size>
+    <Hash>fd82b4d1dd189dc7</Hash>
+    <LastModified>2026-06-10T07:35:40.991Z</LastModified>
+    <DisplayName>UTKA Loader MAY.exe</DisplayName>
+    <Extension>exe</Extension>
+    <MimeType>application/x-msdownload</MimeType>
+  </File>
+  <File>
+    <Name>MAY full UTKA.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/MAY full UTKA.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/MAY full UTKA.bin</Url>
+    <Size>1048576</Size>
+    <Hash>b0f2ce14e879166e</Hash>
+    <LastModified>2026-06-10T07:35:42.105Z</LastModified>
+    <DisplayName>MAY full UTKA.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>RadioMaster_Ranger_Micro_2400_TX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/RadioMaster_Ranger_Micro_2400_TX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/RadioMaster_Ranger_Micro_2400_TX.bin</Url>
+    <Size>1489426</Size>
+    <Hash>c80fbc0e0e157861</Hash>
+    <LastModified>2026-06-10T07:35:43.300Z</LastModified>
+    <DisplayName>RadioMaster_Ranger_Micro_2400_TX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>OR5b3_FlyFish_9624R.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/OR5b3_FlyFish_9624R.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/OR5b3_FlyFish_9624R.bin</Url>
+    <Size>1180352</Size>
+    <Hash>3e6f9ffd1bcbfc2e</Hash>
+    <LastModified>2026-06-10T07:35:44.376Z</LastModified>
+    <DisplayName>OR5b3_FlyFish_9624R.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>OR5b3_RadioMaster_Ranger_Micro_2.4GHz_TX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/OR5b3_RadioMaster_Ranger_Micro_2.4GHz_TX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/OR5b3_RadioMaster_Ranger_Micro_2.4GHz_TX.bin</Url>
+    <Size>1575253</Size>
+    <Hash>19e81727fa6483d5</Hash>
+    <LastModified>2026-06-10T07:35:45.531Z</LastModified>
+    <DisplayName>OR5b3_RadioMaster_Ranger_Micro_2.4GHz_TX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>PATCH 84% UTKA.txt</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/PATCH 84% UTKA.txt</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/PATCH 84% UTKA.txt</Url>
+    <Size>111</Size>
+    <Hash>f9ff504be5e2102e</Hash>
+    <LastModified>2026-06-10T07:35:46.233Z</LastModified>
+    <DisplayName>PATCH 84% UTKA.txt</DisplayName>
+    <Extension>txt</Extension>
+    <MimeType>text/plain</MimeType>
+  </File>
+  <File>
+    <Name>PC45-inav_7.1.2_CADDXF405_WING.hex</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/PC45-inav_7.1.2_CADDXF405_WING.hex</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/PC45-inav_7.1.2_CADDXF405_WING.hex</Url>
+    <Size>1628639</Size>
+    <Hash>90d1fe13e22c0f93</Hash>
+    <LastModified>2026-06-10T07:35:48.504Z</LastModified>
+    <DisplayName>PC45-inav_7.1.2_CADDXF405_WING.hex</DisplayName>
+    <Extension>hex</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>R41_RadioMaster_Ranger_Micro_2.4GHz_TX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/R41_RadioMaster_Ranger_Micro_2.4GHz_TX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/R41_RadioMaster_Ranger_Micro_2.4GHz_TX.bin</Url>
+    <Size>1576213</Size>
+    <Hash>39048934c5487967</Hash>
+    <LastModified>2026-06-10T07:35:49.552Z</LastModified>
+    <DisplayName>R41_RadioMaster_Ranger_Micro_2.4GHz_TX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>UTKA LOADER Android.apk</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/UTKA LOADER Android.apk</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/UTKA LOADER Android.apk</Url>
+    <Size>24343643</Size>
+    <Hash>8b2429dd66295fa7</Hash>
+    <LastModified>2026-06-10T07:35:54.246Z</LastModified>
+    <DisplayName>UTKA LOADER Android.apk</DisplayName>
+    <Extension>apk</Extension>
+    <MimeType>application/vnd.android.package-archive</MimeType>
+  </File>
+  <File>
+    <Name>R41_CYCLONE_2.4GHz_RX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/R41_CYCLONE_2.4GHz_RX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/R41_CYCLONE_2.4GHz_RX.bin</Url>
+    <Size>402282</Size>
+    <Hash>d44ca6956183a1d6</Hash>
+    <LastModified>2026-06-10T07:35:55.364Z</LastModified>
+    <DisplayName>R41_CYCLONE_2.4GHz_RX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>R5RC92_FPV6_Dual_Band_Gemini_RX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/R5RC92_FPV6_Dual_Band_Gemini_RX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/R5RC92_FPV6_Dual_Band_Gemini_RX.bin</Url>
+    <Size>1335456</Size>
+    <Hash>33d4ec3da9b7a3d8</Hash>
+    <LastModified>2026-06-15T06:39:39.430Z</LastModified>
+    <DisplayName>R5RC92_FPV6_Dual_Band_Gemini_RX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>OR5b4_RadioMaster_Bandit_900MHz_TX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_RadioMaster_Bandit_900MHz_TX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_RadioMaster_Bandit_900MHz_TX.bin</Url>
+    <Size>1579760</Size>
+    <Hash>a47726dfd5aa3027</Hash>
+    <LastModified>2026-06-15T06:39:40.388Z</LastModified>
+    <DisplayName>OR5b4_RadioMaster_Bandit_900MHz_TX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>OR5b4_FlyFish_9624R_4ant.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_FlyFish_9624R_4ant.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_FlyFish_9624R_4ant.bin</Url>
+    <Size>1329168</Size>
+    <Hash>79c0576fef78f4a0</Hash>
+    <LastModified>2026-06-15T06:39:41.259Z</LastModified>
+    <DisplayName>OR5b4_FlyFish_9624R_4ant.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>OR5b4_RadioMaster_RP3_Diversity_2.4GHz_RX.bin.gz</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_RadioMaster_RP3_Diversity_2.4GHz_RX.bin.gz</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_RadioMaster_RP3_Diversity_2.4GHz_RX.bin.gz</Url>
+    <Size>408266</Size>
+    <Hash>ac9ae3b2a5ccd135</Hash>
+    <LastModified>2026-06-15T06:39:42.347Z</LastModified>
+    <DisplayName>OR5b4_RadioMaster_RP3_Diversity_2.4GHz_RX.bin.gz</DisplayName>
+    <Extension>gz</Extension>
+    <MimeType>application/x-gzip</MimeType>
+  </File>
+  <File>
+    <Name>OR5b4_FPV6_Dual_Band_Gemini_RX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_FPV6_Dual_Band_Gemini_RX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_FPV6_Dual_Band_Gemini_RX.bin</Url>
+    <Size>1329168</Size>
+    <Hash>4078a21e1900a596</Hash>
+    <LastModified>2026-06-15T06:39:43.254Z</LastModified>
+    <DisplayName>OR5b4_FPV6_Dual_Band_Gemini_RX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>OR5b4_RadioMaster_500-TX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_RadioMaster_500-TX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/OR5b4_RadioMaster_500-TX.bin</Url>
+    <Size>1622160</Size>
+    <Hash>4acf19b081509eb5</Hash>
+    <LastModified>2026-06-29T05:55:08.699Z</LastModified>
+    <DisplayName>OR5b4_RadioMaster_500-TX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>ZLRS_3.372_NONE_500_TX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/ZLRS_3.372_NONE_500_TX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/ZLRS_3.372_NONE_500_TX.bin</Url>
+    <Size>1288874</Size>
+    <Hash>83b0ddd9c5e263c5</Hash>
+    <LastModified>2026-06-29T05:55:37.649Z</LastModified>
+    <DisplayName>ZLRS_3.372_NONE_500_TX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>script_G13_9.lua</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/script_G13_9.lua</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/script_G13_9.lua</Url>
+    <Size>1764</Size>
+    <Hash>f2c81668896114c7</Hash>
+    <LastModified>2026-07-14T08:37:13.918Z</LastModified>
+    <DisplayName>script_G13_9.lua</DisplayName>
+    <Extension>lua</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>R41_FlyFish_9624R_SubGHz.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/R41_FlyFish_9624R_SubGHz.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/R41_FlyFish_9624R_SubGHz.bin</Url>
+    <Size>1180624</Size>
+    <Hash>671f00adc6958531</Hash>
+    <LastModified>2026-07-15T06:56:18.059Z</LastModified>
+    <DisplayName>R41_FlyFish_9624R_SubGHz.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>betaflight_4.3.3_HAKRCF405V2_ALTHOLD_1_0.hex</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/betaflight_4.3.3_HAKRCF405V2_ALTHOLD_1_0.hex</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/betaflight_4.3.3_HAKRCF405V2_ALTHOLD_1_0.hex</Url>
+    <Size>1325343</Size>
+    <Hash>b675d5f4d2f52dd7</Hash>
+    <LastModified>2026-07-15T11:01:11.737Z</LastModified>
+    <DisplayName>betaflight_4.3.3_HAKRCF405V2_ALTHOLD_1_0.hex</DisplayName>
+    <Extension>hex</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>AA_config_09.07.26.exe</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/AA_config_09.07.26.exe</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/AA_config_09.07.26.exe</Url>
+    <Size>1548288</Size>
+    <Hash>5faeaa31c095db1b</Hash>
+    <LastModified>2026-07-17T05:41:08.693Z</LastModified>
+    <DisplayName>AA_config_09.07.26.exe</DisplayName>
+    <Extension>exe</Extension>
+    <MimeType>application/x-msdownload</MimeType>
+  </File>
+  <File>
+    <Name>OR5b3_FlyFish_9624R_4ant.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/OR5b3_FlyFish_9624R_4ant.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/OR5b3_FlyFish_9624R_4ant.bin</Url>
+    <Size>1180992</Size>
+    <Hash>eaa90e3b6823cfd3</Hash>
+    <LastModified>2026-07-20T12:28:54.125Z</LastModified>
+    <DisplayName>OR5b3_FlyFish_9624R_4ant.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>ZLRS_3.36_RM XR3 RX.bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/ZLRS_3.36_RM XR3 RX.bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/ZLRS_3.36_RM XR3 RX.bin</Url>
+    <Size>1130464</Size>
+    <Hash>e379a6f0d9e3379e</Hash>
+    <LastModified>2026-07-22T05:26:17.718Z</LastModified>
+    <DisplayName>ZLRS_3.36_RM XR3 RX.bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>прошивка тх12.rar</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/прошивка тх12.rar</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/прошивка тх12.rar</Url>
+    <Size>18075913</Size>
+    <Hash>cf6fae4decbe29d5</Hash>
+    <LastModified>2026-07-27T08:16:23.440Z</LastModified>
+    <DisplayName>прошивка тх12.rar</DisplayName>
+    <Extension>rar</Extension>
+    <MimeType>application/x-compressed</MimeType>
+  </File>
+  <File>
+    <Name>ZLRS_3.33_9624R_RX (1).bin</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/ZLRS_3.33_9624R_RX (1).bin</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/ZLRS_3.33_9624R_RX (1).bin</Url>
+    <Size>1134096</Size>
+    <Hash>ee6a42c7c792db2d</Hash>
+    <LastModified>2026-07-29T05:39:42.218Z</LastModified>
+    <DisplayName>ZLRS_3.33_9624R_RX (1).bin</DisplayName>
+    <Extension>bin</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>betaflight-app-2026.6.0-RC3.apk</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/betaflight-app-2026.6.0-RC3.apk</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/betaflight-app-2026.6.0-RC3.apk</Url>
+    <Size>16772045</Size>
+    <Hash>f9569b5fc4802117</Hash>
+    <LastModified>2026-08-05T08:23:51.355Z</LastModified>
+    <DisplayName>betaflight-app-2026.6.0-RC3.apk</DisplayName>
+    <Extension>apk</Extension>
+    <MimeType>application/vnd.android.package-archive</MimeType>
+  </File>
+  <File>
+    <Name>TBF82_GENERIC_F4.tbf</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/TBF82_GENERIC_F4.tbf</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/TBF82_GENERIC_F4.tbf</Url>
+    <Size>708496</Size>
+    <Hash>2d62be7b213b3e92</Hash>
+    <LastModified>2026-08-14T05:27:39.910Z</LastModified>
+    <DisplayName>TBF82_GENERIC_F4.tbf</DisplayName>
+    <Extension>tbf</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>G-INAV-M2_070826.zip</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/G-INAV-M2_070826.zip</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/G-INAV-M2_070826.zip</Url>
+    <Size>66913439</Size>
+    <Hash>81633a87c9aafa4f</Hash>
+    <LastModified>2026-08-14T05:28:22.202Z</LastModified>
+    <DisplayName>G-INAV-M2_070826.zip</DisplayName>
     <Extension>zip</Extension>
     <MimeType>application/x-zip-compressed</MimeType>
-    <ThumbnailPath>public/1.zip.thumb</ThumbnailPath>
-    <ThumbnailUrl>https://167.233.102.62:8443/public/1.zip</ThumbnailUrl>
-    <ThumbnailBase64>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</ThumbnailBase64>
+  </File>
+  <File>
+    <Name>AA_config_26.02.26.exe</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/AA_config_26.02.26.exe</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/AA_config_26.02.26.exe</Url>
+    <Size>1446912</Size>
+    <Hash>eab04b04910ec37c</Hash>
+    <LastModified>2026-08-14T14:07:17.716Z</LastModified>
+    <DisplayName>AA_config_26.02.26.exe</DisplayName>
+    <Extension>exe</Extension>
+    <MimeType>application/x-msdownload</MimeType>
+  </File>
+  <File>
+    <Name>inav_7.1.2_LSM_LIDAR_TELEM.hex</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/inav_7.1.2_LSM_LIDAR_TELEM.hex</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/inav_7.1.2_LSM_LIDAR_TELEM.hex</Url>
+    <Size>1638076</Size>
+    <Hash>79e77b3d81d1534d</Hash>
+    <LastModified>2026-08-14T14:07:38.092Z</LastModified>
+    <DisplayName>inav_7.1.2_LSM_LIDAR_TELEM.hex</DisplayName>
+    <Extension>hex</Extension>
+    <MimeType>application/octet-stream</MimeType>
+  </File>
+  <File>
+    <Name>Прошивки от 05.08.2026.zip</Name>
+    <Path>4bdc373f-9210-4948-8176-08f508dc1051/Прошивки от 05.08.2026.zip</Path>
+    <Url>https://toolset-149218244164-eu-central-1-an.s3.eu-central-1.amazonaws.com/4bdc373f-9210-4948-8176-08f508dc1051/Прошивки от 05.08.2026.zip</Url>
+    <Size>818516</Size>
+    <Hash>c667d9efebe85a33</Hash>
+    <LastModified>2026-08-31T13:49:18.721Z</LastModified>
+    <DisplayName>Стрелец-Ум 2.zip</DisplayName>
+    <Extension>zip</Extension>
+    <MimeType>application/x-zip-compressed</MimeType>
   </File>
 </Manifest>
